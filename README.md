@@ -5,6 +5,13 @@ Create JavaScript functions on Cities data to replicate the equivalent SQL opera
 
 
 ---
+### (Pending)
+```sql
+select count(*) from cities
+```
+Solution File: **./src/<new>.js**
+
+---
 ### Filter list by selecting 10 objects (Pending)
 ```sql
 select * from cities limit 10; 
@@ -29,10 +36,16 @@ Solution File: **./src/<new>.js**
 ---
 ### (Pending)
 ```sql
-select distinct(region) from cities
+select distinct region from cities
 ```
 Solution File: **./src/<new>.js**
 
+---
+### (Pending)
+```sql
+select distinct region, country from cities
+```
+Solution File: **./src/<new>.js**
 
 ---
 ### Order list by property values in either ascending or descending order  (Pending)
@@ -96,7 +109,7 @@ select  * from cities where cost BETWEEN 1000 AND 1150
 Solution File: **./src/<new>.js**
 
 ---
-### (Pending)
+### Subqueries (Pending)
 ```sql
 select * from cities where name in  (
    select name from cities where cost > 4500 )
@@ -111,15 +124,178 @@ select * from cities where exists (
 ```
 Solution File: **./src/<new>.js**
 
+
+---
+### Group by (Pending)
+```sql
+select region, count(*) as totalCount from cities group by region
+```
+Solution File: **./src/<new>.js**
+
+---
+### Group by multiple columns(Pending)
+```sql
+select region, country, avg(cost) as avgCost, avg(temperature) as avgTemperature, avg(humidity) as avgHumidity 
+from cities group by 1,2
+```
+Solution File: **./src/<new>.js**
+
+---
+### Joining tables (Pending)
+- Cross join
+- Inner join
+- Left join
+- Left Outer join
+
+```sql
+SELECT 
+	regions.region,
+	countries.country,
+	avg(citiesWithID.cost) as avgCost,
+	avg(citiesWithID.temperature) as avgTemperature,
+	avg(citiesWithID.humidity) as avgHumidity,
+	avg(citiesWithID.internetSpeed) as avgInternetSpeed
+FROM citiesWithID 
+LEFT JOIN regions on citiesWithID.regionID = regions.id
+LEFT JOIN countries on citiesWithID.countryID = countries.id
+group by 1,2
+order by 1,2
+```
+Solution File: **./src/<new>.js**
+
+
+---
+### having clause (Pending)
+```sql
+SELECT 
+	regions.region,
+	countries.country,
+	avg(citiesWithID.cost) as avgCost,
+	avg(citiesWithID.temperature) as avgTemperature,
+	avg(citiesWithID.humidity) as avgHumidity,
+	avg(citiesWithID.internetSpeed) as avgInternetSpeed
+FROM citiesWithID 
+LEFT JOIN regions on citiesWithID.regionID = regions.id
+LEFT JOIN countries on citiesWithID.countryID = countries.id
+group by 1,2
+having avgCost > 4000
+order by 1,2
+```
+Solution File: **./src/<new>.js**
+
+
+---
+### Union clause / operator(Pending)
+- Union
+- Union All
+```sql
+SELECT column1 [, column2 ]
+FROM table1 [, table2 ]
+[WHERE condition]
+
+UNION
+
+SELECT column1 [, column2 ]
+FROM table1 [, table2 ]
+[WHERE condition]
+```
+Solution File: **./src/<new>.js**
+
+
+
+
 ---
 ### (Pending)
+```sql
+select country, count(*) totalRegions from (
+select distinct country, region from cities) a
+group by 1
+having totalRegions > 1
+```
+Solution File: **./src/<new>.js**
+
+
+---
+### (Pending)
+```sql
+update citiesEditable
+	set internetSpeed = 50
+	where country = 'US'
+```
+Solution File: **./src/<new>.js**
+
+
+---
+### Update constraints (Pending)
+- Not Null
+- Default
+- Unique
+- Check 
+- Primary
+
+```sql
+
+```
+Solution File: **./src/<new>.js**
+
+
+---
+### (Pending)
+```sql
+delete from citiesEditable where country = 'NO'
+```
+Solution File: **./src/<new>.js**
+
+---
+### Triggers (Pending)
+```sql
+-- event_name could be INSERT, DELETE, and UPDATE database operation
+CREATE TRIGGER trigger_name [BEFORE|AFTER] event_name 
+ON table_name
+BEGIN
+ -- Trigger logic goes here....
+END;
+```
+Solution File: **./src/<new>.js**
+
+---
+### Indexes (Pending)
+- Single-Column Indexes
+- Unique Indexes
+- Composite Indexes
 ```sql
 
 ```
 Solution File: **./src/<new>.js**
 
 ---
-### (Pending)
+### Views (Pending)
+```sql
+
+```
+Solution File: **./src/<new>.js**
+
+---
+### Transactions (Pending)
+- BEGIN TRANSACTION
+- COMMIT
+- ROLLBACK
+```sql
+
+```
+
+---
+### Date and time queries (Pending)
+[Reference](https://www.tutorialspoint.com/sqlite/sqlite_date_time.htm)
+```sql
+
+```
+Solution File: **./src/<new>.js**
+
+
+
+---
+### Blank content template (Pending)
 ```sql
 
 ```
