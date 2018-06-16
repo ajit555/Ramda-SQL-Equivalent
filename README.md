@@ -11,7 +11,7 @@ select  * from cities where name = 'Chiang Mai'
 Solution File: **./src/B1.js**
 
 ---
-### Get a property projected list from a list  (Pending)
+### Get projected properties list from a list  (Pending)
 
 ```sql
 select country, name as city from cities order by 1,2
