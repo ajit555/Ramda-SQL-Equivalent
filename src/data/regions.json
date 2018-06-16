@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "region": "SE Asia"
+    },
+    {
+        "id": "2",
+        "region": "Europe"
+    },
+    {
+        "id": "3",
+        "region": "East Asia"
+    },
+    {
+        "id": "4",
+        "region": "Central America"
+    },
+    {
+        "id": "5",
+        "region": "South America"
+    },
+    {
+        "id": "6",
+        "region": "North America"
+    },
+    {
+        "id": "7",
+        "region": "Africa"
+    },
+    {
+        "id": "8",
+        "region": "Middle East"
+    },
+    {
+        "id": "9",
+        "region": "Oceania"
+    }
+]

@@ -1,0 +1,1002 @@
+[
+    {
+        "cost": "1380",
+        "countryID": "45",
+        "currency": "USD",
+        "humidity": "78",
+        "internetSpeed": "20",
+        "name": "Bangkok",
+        "regionID": "1",
+        "temperature": "302.038888888889"
+    },
+    {
+        "cost": "654",
+        "countryID": "45",
+        "currency": "USD",
+        "humidity": "83",
+        "internetSpeed": "20",
+        "name": "Chiang Mai",
+        "regionID": "1",
+        "temperature": "299.816666666667"
+    },
+    {
+        "cost": "1183",
+        "countryID": "45",
+        "currency": "USD",
+        "humidity": "88",
+        "internetSpeed": "20",
+        "name": "Pattaya",
+        "regionID": "1",
+        "temperature": "301.483333333333"
+    },
+    {
+        "cost": "1040",
+        "countryID": "45",
+        "currency": "USD",
+        "humidity": "74",
+        "internetSpeed": "20",
+        "name": "Phuket",
+        "regionID": "1",
+        "temperature": "302.038888888889"
+    },
+    {
+        "cost": "1083",
+        "countryID": "49",
+        "currency": "USD",
+        "humidity": "83",
+        "internetSpeed": "20",
+        "name": "Hoi An",
+        "regionID": "1",
+        "temperature": "299.261111111111"
+    },
+    {
+        "cost": "1191",
+        "countryID": "11",
+        "currency": "USD",
+        "humidity": "77",
+        "internetSpeed": "40",
+        "name": "Prague",
+        "regionID": "2",
+        "temperature": "292.038888888889"
+    },
+    {
+        "cost": "936",
+        "countryID": "26",
+        "currency": "USD",
+        "humidity": "78",
+        "internetSpeed": "10",
+        "name": "Phnom Penh",
+        "regionID": "1",
+        "temperature": "301.483333333333"
+    },
+    {
+        "cost": "1490",
+        "countryID": "4",
+        "currency": "USD",
+        "humidity": "69",
+        "internetSpeed": "40",
+        "name": "Sofia",
+        "regionID": "2",
+        "temperature": "296.483333333333"
+    },
+    {
+        "cost": "1417",
+        "countryID": "28",
+        "currency": "USD",
+        "humidity": "82",
+        "internetSpeed": "40",
+        "name": "Riga",
+        "regionID": "2",
+        "temperature": "286.483333333333"
+    },
+    {
+        "cost": "1329",
+        "countryID": "49",
+        "currency": "USD",
+        "humidity": "97",
+        "internetSpeed": "20",
+        "name": "Ho Chi Minh City",
+        "regionID": "1",
+        "temperature": "296.483333333333"
+    },
+    {
+        "cost": "1065",
+        "countryID": "30",
+        "currency": "USD",
+        "humidity": "83",
+        "internetSpeed": "10",
+        "name": "Penang",
+        "regionID": "1",
+        "temperature": "301.483333333333"
+    },
+    {
+        "cost": "2166",
+        "countryID": "20",
+        "currency": "USD",
+        "humidity": "53",
+        "internetSpeed": "30",
+        "name": "Budapest",
+        "regionID": "2",
+        "temperature": "298.15"
+    },
+    {
+        "cost": "1206",
+        "countryID": "30",
+        "currency": "USD",
+        "humidity": "83",
+        "internetSpeed": "10",
+        "name": "Kuala Lumpur",
+        "regionID": "1",
+        "temperature": "299.261111111111"
+    },
+    {
+        "cost": "1824",
+        "countryID": "38",
+        "currency": "USD",
+        "humidity": "57",
+        "internetSpeed": "80",
+        "name": "Brasov",
+        "regionID": "2",
+        "temperature": "294.261111111111"
+    },
+    {
+        "cost": "1551",
+        "countryID": "44",
+        "currency": "USD",
+        "humidity": "82",
+        "internetSpeed": "20",
+        "name": "Bratislava",
+        "regionID": "2",
+        "temperature": "294.261111111111"
+    },
+    {
+        "cost": "1466",
+        "countryID": "44",
+        "currency": "USD",
+        "humidity": "72",
+        "internetSpeed": "30",
+        "name": "Kosice",
+        "regionID": "2",
+        "temperature": "292.038888888889"
+    },
+    {
+        "cost": "1358",
+        "countryID": "39",
+        "currency": "USD",
+        "humidity": "93",
+        "internetSpeed": "10",
+        "name": "Belgrade",
+        "regionID": "2",
+        "temperature": "293.15"
+    },
+    {
+        "cost": "1764",
+        "countryID": "36",
+        "currency": "USD",
+        "humidity": "68",
+        "internetSpeed": "20",
+        "name": "Wroclaw",
+        "regionID": "2",
+        "temperature": "294.261111111111"
+    },
+    {
+        "cost": "1054",
+        "countryID": "35",
+        "currency": "USD",
+        "humidity": "100",
+        "internetSpeed": "5",
+        "name": "Davao",
+        "regionID": "1",
+        "temperature": "294.816666666667"
+    },
+    {
+        "cost": "1999",
+        "countryID": "38",
+        "currency": "USD",
+        "humidity": "94",
+        "internetSpeed": "60",
+        "name": "Timisoara",
+        "regionID": "2",
+        "temperature": "294.261111111111"
+    },
+    {
+        "cost": "1185",
+        "countryID": "21",
+        "currency": "USD",
+        "humidity": "83",
+        "internetSpeed": "5",
+        "name": "Ubud",
+        "regionID": "1",
+        "temperature": "298.15"
+    },
+    {
+        "cost": "2162",
+        "countryID": "43",
+        "currency": "USD",
+        "humidity": "77",
+        "internetSpeed": "20",
+        "name": "Ljubljana",
+        "regionID": "2",
+        "temperature": "293.15"
+    },
+    {
+        "cost": "1987",
+        "countryID": "36",
+        "currency": "USD",
+        "humidity": "63",
+        "internetSpeed": "30",
+        "name": "Warsaw",
+        "regionID": "2",
+        "temperature": "291.483333333333"
+    },
+    {
+        "cost": "1539",
+        "countryID": "19",
+        "currency": "USD",
+        "humidity": "82",
+        "internetSpeed": "10",
+        "name": "Zagreb",
+        "regionID": "2",
+        "temperature": "295.372222222222"
+    },
+    {
+        "cost": "1656",
+        "countryID": "9",
+        "currency": "USD",
+        "humidity": "83",
+        "internetSpeed": "20",
+        "name": "Shanghai",
+        "regionID": "3",
+        "temperature": "298.15"
+    },
+    {
+        "cost": "2164",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "94",
+        "internetSpeed": "10",
+        "name": "San Juan",
+        "regionID": "4",
+        "temperature": "297.038888888889"
+    },
+    {
+        "cost": "829",
+        "countryID": "5",
+        "currency": "USD",
+        "humidity": "25",
+        "internetSpeed": "5",
+        "name": "Cochabamba",
+        "regionID": "5",
+        "temperature": "297.038888888889"
+    },
+    {
+        "cost": "2137",
+        "countryID": "46",
+        "currency": "USD",
+        "humidity": "69",
+        "internetSpeed": "40",
+        "name": "Taipei",
+        "regionID": "3",
+        "temperature": "304.816666666667"
+    },
+    {
+        "cost": "2305",
+        "countryID": "7",
+        "currency": "USD",
+        "humidity": "57",
+        "internetSpeed": "20",
+        "name": "Montreal",
+        "regionID": "6",
+        "temperature": "297.594444444444"
+    },
+    {
+        "cost": "2148",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "20",
+        "internetSpeed": "40",
+        "name": "Las Vegas",
+        "regionID": "6",
+        "temperature": "307.594444444444"
+    },
+    {
+        "cost": "1099",
+        "countryID": "34",
+        "currency": "USD",
+        "humidity": "72",
+        "internetSpeed": "10",
+        "name": "Lima",
+        "regionID": "5",
+        "temperature": "292.038888888889"
+    },
+    {
+        "cost": "2145",
+        "countryID": "6",
+        "currency": "USD",
+        "humidity": "60",
+        "internetSpeed": "30",
+        "name": "Curitiba",
+        "regionID": "5",
+        "temperature": "299.816666666667"
+    },
+    {
+        "cost": "1045",
+        "countryID": "26",
+        "currency": "USD",
+        "humidity": "78",
+        "internetSpeed": "10",
+        "name": "Siem Reap",
+        "regionID": "1",
+        "temperature": "299.261111111111"
+    },
+    {
+        "cost": "2541",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "73",
+        "internetSpeed": "60",
+        "name": "Austin",
+        "regionID": "6",
+        "temperature": "299.261111111111"
+    },
+    {
+        "cost": "1565",
+        "countryID": "9",
+        "currency": "USD",
+        "humidity": "93",
+        "internetSpeed": "30",
+        "name": "Beijing",
+        "regionID": "3",
+        "temperature": "300.927777777778"
+    },
+    {
+        "cost": "917",
+        "countryID": "15",
+        "currency": "USD",
+        "humidity": "38",
+        "internetSpeed": "5",
+        "name": "Cairo",
+        "regionID": "7",
+        "temperature": "305.372222222222"
+    },
+    {
+        "cost": "2265",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "55",
+        "internetSpeed": "20",
+        "name": "Dallas",
+        "regionID": "6",
+        "temperature": "306.483333333333"
+    },
+    {
+        "cost": "2862",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "21",
+        "internetSpeed": "40",
+        "name": "Park City",
+        "regionID": "6",
+        "temperature": "302.038888888889"
+    },
+    {
+        "cost": "2455",
+        "countryID": "37",
+        "currency": "USD",
+        "humidity": "64",
+        "internetSpeed": "30",
+        "name": "Lisbon",
+        "regionID": "2",
+        "temperature": "300.372222222222"
+    },
+    {
+        "cost": "2601",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "69",
+        "internetSpeed": "40",
+        "name": "Santa Monica",
+        "regionID": "6",
+        "temperature": "302.038888888889"
+    },
+    {
+        "cost": "2678",
+        "countryID": "42",
+        "currency": "USD",
+        "humidity": "94",
+        "internetSpeed": "80",
+        "name": "Singapore",
+        "regionID": "1",
+        "temperature": "298.15"
+    },
+    {
+        "cost": "1296",
+        "countryID": "10",
+        "currency": "USD",
+        "humidity": "52",
+        "internetSpeed": "10",
+        "name": "Medellin",
+        "regionID": "5",
+        "temperature": "294.261111111111"
+    },
+    {
+        "cost": "2825",
+        "countryID": "7",
+        "currency": "USD",
+        "humidity": "69",
+        "internetSpeed": "20",
+        "name": "Toronto",
+        "regionID": "6",
+        "temperature": "300.372222222222"
+    },
+    {
+        "cost": "2392",
+        "countryID": "25",
+        "currency": "USD",
+        "humidity": "83",
+        "internetSpeed": "30",
+        "name": "Tokyo",
+        "regionID": "3",
+        "temperature": "298.15"
+    },
+    {
+        "cost": "2686",
+        "countryID": "37",
+        "currency": "USD",
+        "humidity": "99",
+        "internetSpeed": "30",
+        "name": "Porto",
+        "regionID": "2",
+        "temperature": "299.261111111111"
+    },
+    {
+        "cost": "2882",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "31",
+        "internetSpeed": "30",
+        "name": "Tucson",
+        "regionID": "6",
+        "temperature": "309.816666666667"
+    },
+    {
+        "cost": "1255",
+        "countryID": "35",
+        "currency": "USD",
+        "humidity": "96",
+        "internetSpeed": "5",
+        "name": "Palawan",
+        "regionID": "1",
+        "temperature": "295.927777777778"
+    },
+    {
+        "cost": "2634",
+        "countryID": "18",
+        "currency": "USD",
+        "humidity": "79",
+        "internetSpeed": "90",
+        "name": "Hong Kong",
+        "regionID": "3",
+        "temperature": "304.816666666667"
+    },
+    {
+        "cost": "1887",
+        "countryID": "29",
+        "currency": "USD",
+        "humidity": "70",
+        "internetSpeed": "10",
+        "name": "Playa del Carmen",
+        "regionID": "6",
+        "temperature": "303.705555555556"
+    },
+    {
+        "cost": "2641",
+        "countryID": "47",
+        "currency": "USD",
+        "humidity": "64",
+        "internetSpeed": "30",
+        "name": "Manchester",
+        "regionID": "2",
+        "temperature": "294.261111111111"
+    },
+    {
+        "cost": "2519",
+        "countryID": "23",
+        "currency": "USD",
+        "humidity": "61",
+        "internetSpeed": "20",
+        "name": "Tel Aviv",
+        "regionID": "2",
+        "temperature": "301.483333333333"
+    },
+    {
+        "cost": "2064",
+        "countryID": "38",
+        "currency": "USD",
+        "humidity": "77",
+        "internetSpeed": "80",
+        "name": "Bucharest",
+        "regionID": "2",
+        "temperature": "295.372222222222"
+    },
+    {
+        "cost": "2843",
+        "countryID": "7",
+        "currency": "USD",
+        "humidity": "87",
+        "internetSpeed": "40",
+        "name": "Vancouver",
+        "regionID": "6",
+        "temperature": "292.594444444445"
+    },
+    {
+        "cost": "3077",
+        "countryID": "17",
+        "currency": "USD",
+        "humidity": "36",
+        "internetSpeed": "30",
+        "name": "Bordeaux",
+        "regionID": "2",
+        "temperature": "300.927777777778"
+    },
+    {
+        "cost": "1724",
+        "countryID": "2",
+        "currency": "USD",
+        "humidity": "88",
+        "internetSpeed": "10",
+        "name": "Buenos Aires",
+        "regionID": "5",
+        "temperature": "291.483333333333"
+    },
+    {
+        "cost": "2301",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "44",
+        "internetSpeed": "30",
+        "name": "Detroit",
+        "regionID": "6",
+        "temperature": "300.372222222222"
+    },
+    {
+        "cost": "2934",
+        "countryID": "27",
+        "currency": "USD",
+        "humidity": "82",
+        "internetSpeed": "60",
+        "name": "Seoul",
+        "regionID": "3",
+        "temperature": "293.15"
+    },
+    {
+        "cost": "1808",
+        "countryID": "35",
+        "currency": "USD",
+        "humidity": "88",
+        "internetSpeed": "5",
+        "name": "Cebu",
+        "regionID": "1",
+        "temperature": "299.261111111111"
+    },
+    {
+        "cost": "3161",
+        "countryID": "14",
+        "currency": "USD",
+        "humidity": "82",
+        "internetSpeed": "40",
+        "name": "Tallinn",
+        "regionID": "2",
+        "temperature": "289.261111111111"
+    },
+    {
+        "cost": "3070",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "20",
+        "internetSpeed": "20",
+        "name": "Boulder",
+        "regionID": "6",
+        "temperature": "307.594444444444"
+    },
+    {
+        "cost": "2748",
+        "countryID": "3",
+        "currency": "USD",
+        "humidity": "82",
+        "internetSpeed": "20",
+        "name": "Salzburg",
+        "regionID": "2",
+        "temperature": "290.927777777778"
+    },
+    {
+        "cost": "2798",
+        "countryID": "16",
+        "currency": "USD",
+        "humidity": "17",
+        "internetSpeed": "30",
+        "name": "Madrid",
+        "regionID": "2",
+        "temperature": "308.15"
+    },
+    {
+        "cost": "3096",
+        "countryID": "3",
+        "currency": "USD",
+        "humidity": "82",
+        "internetSpeed": "20",
+        "name": "Vienna",
+        "regionID": "2",
+        "temperature": "292.594444444445"
+    },
+    {
+        "cost": "1371",
+        "countryID": "35",
+        "currency": "USD",
+        "humidity": "100",
+        "internetSpeed": "5",
+        "name": "Manila",
+        "regionID": "1",
+        "temperature": "298.15"
+    },
+    {
+        "cost": "3233",
+        "countryID": "1",
+        "currency": "USD",
+        "humidity": "37",
+        "internetSpeed": "30",
+        "name": "Dubai",
+        "regionID": "8",
+        "temperature": "309.261111111111"
+    },
+    {
+        "cost": "1994",
+        "countryID": "6",
+        "currency": "USD",
+        "humidity": "97",
+        "internetSpeed": "20",
+        "name": "Recife",
+        "regionID": "5",
+        "temperature": "299.261111111111"
+    },
+    {
+        "cost": "2124",
+        "countryID": "40",
+        "currency": "USD",
+        "humidity": "63",
+        "internetSpeed": "20",
+        "name": "Saint Petersburg",
+        "regionID": "2",
+        "temperature": "289.261111111111"
+    },
+    {
+        "cost": "2436",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "55",
+        "internetSpeed": "20",
+        "name": "Orlando",
+        "regionID": "6",
+        "temperature": "306.483333333333"
+    },
+    {
+        "cost": "3254",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "72",
+        "internetSpeed": "30",
+        "name": "Seattle",
+        "regionID": "6",
+        "temperature": "292.038888888889"
+    },
+    {
+        "cost": "3729",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "20",
+        "internetSpeed": "30",
+        "name": "Salt Lake City",
+        "regionID": "6",
+        "temperature": "301.483333333333"
+    },
+    {
+        "cost": "3508",
+        "countryID": "12",
+        "currency": "USD",
+        "humidity": "49",
+        "internetSpeed": "30",
+        "name": "Berlin",
+        "regionID": "2",
+        "temperature": "293.705555555556"
+    },
+    {
+        "cost": "3539",
+        "countryID": "33",
+        "currency": "USD",
+        "humidity": "87",
+        "internetSpeed": "30",
+        "name": "Wellington",
+        "regionID": "9",
+        "temperature": "284.261111111111"
+    },
+    {
+        "cost": "3270",
+        "countryID": "47",
+        "currency": "USD",
+        "humidity": "49",
+        "internetSpeed": "30",
+        "name": "Cambridge",
+        "regionID": "2",
+        "temperature": "295.372222222222"
+    },
+    {
+        "cost": "3266",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "62",
+        "internetSpeed": "20",
+        "name": "Portland",
+        "regionID": "6",
+        "temperature": "289.816666666667"
+    },
+    {
+        "cost": "2855",
+        "countryID": "16",
+        "currency": "USD",
+        "humidity": "25",
+        "internetSpeed": "30",
+        "name": "Granada",
+        "regionID": "2",
+        "temperature": "301.483333333333"
+    },
+    {
+        "cost": "3431",
+        "countryID": "16",
+        "currency": "USD",
+        "humidity": "60",
+        "internetSpeed": "30",
+        "name": "Barcelona",
+        "regionID": "2",
+        "temperature": "298.15"
+    },
+    {
+        "cost": "3214",
+        "countryID": "22",
+        "currency": "USD",
+        "humidity": "82",
+        "internetSpeed": "30",
+        "name": "Dublin",
+        "regionID": "2",
+        "temperature": "290.372222222222"
+    },
+    {
+        "cost": "2869",
+        "countryID": "33",
+        "currency": "USD",
+        "humidity": "100",
+        "internetSpeed": "20",
+        "name": "Auckland",
+        "regionID": "9",
+        "temperature": "284.816666666667"
+    },
+    {
+        "cost": "3714",
+        "countryID": "41",
+        "currency": "USD",
+        "humidity": "68",
+        "internetSpeed": "50",
+        "name": "Stockholm",
+        "regionID": "2",
+        "temperature": "295.372222222222"
+    },
+    {
+        "cost": "3229",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "20",
+        "internetSpeed": "30",
+        "name": "Denver",
+        "regionID": "6",
+        "temperature": "307.594444444444"
+    },
+    {
+        "cost": "3795",
+        "countryID": "8",
+        "currency": "USD",
+        "humidity": "82",
+        "internetSpeed": "40",
+        "name": "Basel",
+        "regionID": "2",
+        "temperature": "291.483333333333"
+    },
+    {
+        "cost": "3772",
+        "countryID": "31",
+        "currency": "USD",
+        "humidity": "68",
+        "internetSpeed": "40",
+        "name": "Amsterdam",
+        "regionID": "2",
+        "temperature": "293.705555555556"
+    },
+    {
+        "cost": "2072",
+        "countryID": "50",
+        "currency": "USD",
+        "humidity": "12",
+        "internetSpeed": "10",
+        "name": "Johannesburg",
+        "regionID": "7",
+        "temperature": "293.15"
+    },
+    {
+        "cost": "3680",
+        "countryID": "17",
+        "currency": "USD",
+        "humidity": "49",
+        "internetSpeed": "50",
+        "name": "Lyon",
+        "regionID": "2",
+        "temperature": "295.372222222222"
+    },
+    {
+        "cost": "3250",
+        "countryID": "24",
+        "currency": "USD",
+        "humidity": "88",
+        "internetSpeed": "10",
+        "name": "Rome",
+        "regionID": "2",
+        "temperature": "297.038888888889"
+    },
+    {
+        "cost": "3514",
+        "countryID": "13",
+        "currency": "USD",
+        "humidity": "77",
+        "internetSpeed": "40",
+        "name": "Copenhagen",
+        "regionID": "2",
+        "temperature": "292.038888888889"
+    },
+    {
+        "cost": "4178",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "73",
+        "internetSpeed": "30",
+        "name": "Los Angeles",
+        "regionID": "6",
+        "temperature": "301.483333333333"
+    },
+    {
+        "cost": "2564",
+        "countryID": "50",
+        "currency": "USD",
+        "humidity": "84",
+        "internetSpeed": "10",
+        "name": "Cape Town",
+        "regionID": "7",
+        "temperature": "288.705555555556"
+    },
+    {
+        "cost": "3736",
+        "countryID": "31",
+        "currency": "USD",
+        "humidity": "63",
+        "internetSpeed": "50",
+        "name": "Rotterdam",
+        "regionID": "2",
+        "temperature": "293.15"
+    },
+    {
+        "cost": "4294",
+        "countryID": "32",
+        "currency": "USD",
+        "humidity": "59",
+        "internetSpeed": "30",
+        "name": "Oslo",
+        "regionID": "2",
+        "temperature": "293.15"
+    },
+    {
+        "cost": "4208",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "65",
+        "internetSpeed": "20",
+        "name": "Columbus",
+        "regionID": "6",
+        "temperature": "301.483333333333"
+    },
+    {
+        "cost": "3910",
+        "countryID": "12",
+        "currency": "USD",
+        "humidity": "68",
+        "internetSpeed": "30",
+        "name": "Dusseldorf",
+        "regionID": "2",
+        "temperature": "295.927777777778"
+    },
+    {
+        "cost": "4358",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "45",
+        "internetSpeed": "30",
+        "name": "Philadelphia",
+        "regionID": "6",
+        "temperature": "303.15"
+    },
+    {
+        "cost": "3724",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "82",
+        "internetSpeed": "20",
+        "name": "Minneapolis",
+        "regionID": "6",
+        "temperature": "293.15"
+    },
+    {
+        "cost": "4674",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "35",
+        "internetSpeed": "40",
+        "name": "New York City",
+        "regionID": "6",
+        "temperature": "302.038888888889"
+    },
+    {
+        "cost": "3911",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "50",
+        "internetSpeed": "30",
+        "name": "Chicago",
+        "regionID": "6",
+        "temperature": "300.927777777778"
+    },
+    {
+        "cost": "4656",
+        "countryID": "17",
+        "currency": "USD",
+        "humidity": "49",
+        "internetSpeed": "70",
+        "name": "Paris",
+        "regionID": "2",
+        "temperature": "296.483333333333"
+    },
+    {
+        "cost": "4119",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "74",
+        "internetSpeed": "30",
+        "name": "Miami",
+        "regionID": "6",
+        "temperature": "304.261111111111"
+    },
+    {
+        "cost": "4854",
+        "countryID": "48",
+        "currency": "USD",
+        "humidity": "82",
+        "internetSpeed": "30",
+        "name": "San Francisco",
+        "regionID": "6",
+        "temperature": "295.372222222222"
+    },
+    {
+        "cost": "4504",
+        "countryID": "47",
+        "currency": "USD",
+        "humidity": "60",
+        "internetSpeed": "30",
+        "name": "London",
+        "regionID": "2",
+        "temperature": "295.372222222222"
+    }
+]
