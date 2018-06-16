@@ -295,6 +295,9 @@ Solution File: **./src/B29.js**
 Solution File: **./src/B30.js**
 
 
+---
+### Find top 10 cities based on a score and filtering criteria (Completed)
+Solution File: **./src/CityScoring.js**
 
 ---
 ### Blank content template (Pending)
@@ -303,6 +306,3 @@ Solution File: **./src/B30.js**
 ```
 Solution File: **./src/<new>.js**
 
----
-### Find top 10 cities based on a score and filtering criteria (Completed)
-Solution File: **./src/CityScoring.js**
