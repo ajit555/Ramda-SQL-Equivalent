@@ -8,15 +8,15 @@ Create JavaScript functions on Cities data to replicate the equivalent SQL opera
 ```sql
 select  * from cities where name = 'Chiang Mai'
 ```
-Solution File: **B1.js**
+Solution File: **./src/B1.js**
 
 --- 
 ### Filter a List Based on Multiple Predicates
 ```sql
 select  * from cities where cost < 1050 and humidity > 40 
 ```
-Solution File: **B2.js**
+Solution File: **./src/B2.js**
 
 ---
 ### Find top 10 cities based on a score and filtering criteria.
-Solution File: **CityScoring.js**
+Solution File: **./src/CityScoring.js**
