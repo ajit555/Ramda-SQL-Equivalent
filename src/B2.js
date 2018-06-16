@@ -1,15 +1,12 @@
-//import R from 'ramda'
+// Get a property projected list from a list
+// SQL: select country, name as city from cities order by 1,2
+
 const R = require('ramda');
 const cities = require('./data/cities.json');
 
+// Solution function To be implemented
+let fnB2 = (cities) => (cities)
 
-//==================================================================
-//Task: Filter a List Based on Multiple Predicates
-//SQL:  select  * from cities where cost < 1050 and humidity > 40 
+let resultB2 = fnB2(cities)
 
-//to be implemented
-let fnFilterListByMultiplePredicates = () => (cities)
-
-let filterdCities = fnFilterListByMultiplePredicates(cities)
-console.log(filterdCities);
-
+console.log(resultB);
