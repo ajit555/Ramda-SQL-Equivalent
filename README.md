@@ -3,9 +3,37 @@ SQL equivalent operations using Ramda functions
 
 Create JavaScript functions on Cities data to replicate the equivalent SQL operations on Cities RDBMS (SQLite DB) table.
 
+## Data details
+
+- ./src/data/cities.json - (Readonly) Cities objects with following properties:  
+
+		name, country, region, cost, currency, temperature, humidity, internetSpeed
+
+- ./src/data/countries.json - (Readonly) Country objects with following properties:  
+		
+		id, country
+
+- ./src/data/regions.json - (Readonly) Region objects with following properties:  
+		
+		id, region
+
+- ./src/data/citiesWithID.json - (Readonly) Cities objects with following properties: 
+		
+		name, countryID, regionID, cost, currency, temperature, humidity, internetSpeed
+
+	This file cantains data for joining with countries.json and regions.json files.
+
+- ./src/data/cities.db - SQLite database file
+
+- ./src/data/citiesEditable.json - for updating and deleting data
+
+
+## SQL queries for Ramda solutions
+
+In the mentioned solution file, the JavaScript solution (using Ramda) needs to be provided.
 
 ---
-### (Pending)
+### Number of objects in the list (Pending)
 ```sql
 select count(*) from cities
 ```
